@@ -52,6 +52,7 @@
     &__image {
       width: 90%;
       margin: 0 auto;
+      max-height: 369.56px;
 
       @include respond(tab-land) {
         width: 100%;
